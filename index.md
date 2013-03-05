@@ -26,6 +26,8 @@ IETF信托及标识为本文档的作者版权所有（c）2012。保留所有�
 
 本文档受[BCP78][PCB78]和IETF信托有关IETF文档的法律条款 ([http://trustee.ietf.org/license-info][IETF License])的约束，自本文档发布之日起生效。请仔细查阅这些文件，因为它们描述了与本文档有关的权利和限制。从本文档中提取的代码组件必须按信托法律条款[4.e][TrustLegalProvisions#4.e]节所述包含简化BSD许可证文本；并且按简化BSD许可证中所述不附带质量保证。
 
+## [目录](TableofContents.md)
+
 [RFC5741#2]:http://tools.ietf.org/html/rfc5741#section-2 "RFC5741第二节"
 [RFC6750Editor]: http://www.rfc-editor.org/info/rfc6750 "RFC6750Editor"
 [PCB78]: http://tools.ietf.org/html/bcp78 "PCB78"
