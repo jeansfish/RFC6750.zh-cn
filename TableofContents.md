@@ -12,10 +12,10 @@
 - 3. [WWW-Authenticate响应头部字段](Section03/3.md)
   - 3.1. [错误代码](Section03/3.1.md)
 - 4. [访问令牌响应示例](Section04/4.md)
-- 5.安全考量
-  - 5.1. 安全威胁
-  - 5.2. 威胁缓解
-  - 5.3. 建议一览
+- 5.[安全考量](Section05/5.md)
+  - 5.1. [安全威胁](Section05/5.1.md)
+  - 5.2. [威胁缓解](Section05/5.2.md)
+  - 5.3. [建议一览](Section05/5.3.md)
 - 6. IANA考量
   - 6.1. OAuth访问令牌类型注册
       - 6.1.1. “Bearer”OAuth访问令牌类型
