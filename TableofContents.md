@@ -16,13 +16,13 @@
   - 5.1. [安全威胁](Section05/5.1.md)
   - 5.2. [威胁缓解](Section05/5.2.md)
   - 5.3. [建议一览](Section05/5.3.md)
-- 6. IANA考量
-  - 6.1. OAuth访问令牌类型注册
-      - 6.1.1. “Bearer”OAuth访问令牌类型
-  - 6.2. OAuth扩展错误注册
-      - 6.2.1. “invalid_request”错误值
-      - 6.2.2. “invalid_token”错误值
-      - 6.2.3. “insufficient_scope”错误值
+- 6. [IANA考量](Section06/6.md)
+  - 6.1. [OAuth访问令牌类型注册](Section06/6.1.md)
+      - 6.1.1. [“Bearer”OAuth访问令牌类型](Section06/6.1.1.md)
+  - 6.2. [OAuth扩展错误注册](Section06/6.2.md)
+      - 6.2.1. [“invalid_request”错误值](Section06/6.2.1.md)
+      - 6.2.2. [“invalid_token”错误值](Section06/6.2.2.md)
+      - 6.2.3. [“insufficient_scope”错误值](Section06/6.2.3.md)
 - 7. 参考文献
   - 7.1. 规范性引用文献
   - 7.2.参考性引用文献
