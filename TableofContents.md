@@ -23,7 +23,7 @@
       - 6.2.1. [“invalid_request”错误值](Section06/6.2.1.md)
       - 6.2.2. [“invalid_token”错误值](Section06/6.2.2.md)
       - 6.2.3. [“insufficient_scope”错误值](Section06/6.2.3.md)
-- 7. 参考文献
-  - 7.1. 规范性引用文献
-  - 7.2.参考性引用文献
+- 7. [参考文献](Section07/7.md)
+  - 7.1. [规范性引用文献](Section07/7.1.md)
+  - 7.2. [参考性引用文献](Section07/7.2.md)
 - 附录A. 致谢
